@@ -8,7 +8,7 @@ This is our phototrap with Raspberry Pi for wildlife photography.
 ### Schemes
 Documents in the schemes directory:
 
-blockscheme.pdf  - electronic circuit diagram <br>
+blockscheme.pdf  - block scheme diagram <br>
 circuit.pdf      - electronic circuit diagram <br>
 
 ### Parts list
